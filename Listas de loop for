@@ -1,0 +1,13 @@
+# Declarando uma lista de frutas
+
+frutas = ["maçã", "banana", "laranja", "uva"]
+
+# Adicionando um item à lista
+
+frutas.append ("morango")
+
+# Percorrendo a lista com um loop
+
+print ("Lista de frutas: ")
+for fruta in frutas:
+  print (f"-{fruta}")
