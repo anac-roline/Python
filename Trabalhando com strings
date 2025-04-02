@@ -1,0 +1,6 @@
+nome_completo = "Maria Silva"
+primeiro_nome, sobrenome = nome_completo.split(" ") 
+
+print (f"Primeiro nome: {primeiro_nome.upper()}")
+print (f"Sobrenome: {sobrenome.lower()}")
+print (f"Iniciais: {primeiro_nome[0]}. {sobrenome[0]}.")
