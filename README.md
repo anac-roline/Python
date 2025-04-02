@@ -1,2 +1,3 @@
-# studying-python
-Este repositório contém meus estudos e práticas em Python
+# Estudo de Python
+
+Este repositório é para armazenar meus estudos e projetos em **Python**.
