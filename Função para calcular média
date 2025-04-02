@@ -1,0 +1,8 @@
+# Função para calcular média
+
+def calcular_media (nota1, nota2):
+  return (nota1 + nota2) / 2
+
+# Chamando a função
+media = calcular_media(8.5, 7.0)
+print(f"Média: {media}")
