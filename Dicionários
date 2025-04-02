@@ -1,0 +1,15 @@
+# Dicionário com informações de um produto
+
+produto = {
+    "nome": "Notebook",
+    "preco": 3500.00,
+    "estoque": True,
+    "cores_disponiveis": ["prata", "preto"]
+
+}
+
+# Acessando valores do dicionário
+
+print (f"Nome: {produto ['nome']}")
+print  (f"Preço: R${produto ['preco']: .2f}")
+print (f"Disponível em estoque? {produto ['estoque']}")
